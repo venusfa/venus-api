@@ -8,7 +8,7 @@ A Vénus 2.0 é uma plataforma inovadora de inteligência artificial focada na p
 
 link: https://venus2.net/api/venus?say=[termo]
 fonte: https://venus2.net
-retorno: Retorna a resposta da Venus2. Inicialmente verifica se é um comando especial, de seguida pesquisa na memória estática de venus1 e no final envia para a OpenAI (ChatGTP), se não tiver resposta das anteriores. Tudo em português de Portugal.
+retorno: Retorna a resposta da Venus2. Inicialmente verifica se é um comando especial, de seguida pesquisa na memória estática de venus1 e no final envia para a OpenAI (ChatGPT), se não tiver resposta das anteriores. Tudo em português de Portugal.
  
 # tempo
 
